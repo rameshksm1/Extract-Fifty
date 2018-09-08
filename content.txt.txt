@@ -6,3 +6,10 @@ This is the add in MyPRJ_001
 This is still in MyPRJ_001
 Text until and including this is added via MyPRJ_001 9/8/2018 0031 Hrs
 
+
+Until now is deployed in PRD via Rel_001
+
+This is the add in MyPRJ_002
+This is still in MyPRJ_002
+Text until and including this is added via MyPRJ_002 9/8/2018 0050 Hrs
+
